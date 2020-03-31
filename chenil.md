@@ -17,3 +17,20 @@ Liste de chiens actuellement en pension:
 - Moussaka, bouvier bernois, en pension poue 10 jours
 - Fluffy, samoid, en pension pour 1 mois
 - Max, grand danois, en pesion pour 1 semaine
+
+## 2eme partie
+
+Monique est très contente de cette première version. Mais elle souhaiterez à présent que le programme se souvienne
+des changements effectués dans la liste des chiens.
+
+Modifiez le programme pour qu'il:
+
+- Au démarrage charge la liste des chiens depuis un fichier
+- A l'ajout d'un nouveau chien mette à jour le fichier
+
+Le format du fichier à utiliser est le suivant:
+
+```
+Hector,berger allemand,7
+Vodka, chihuahua,2
+```
